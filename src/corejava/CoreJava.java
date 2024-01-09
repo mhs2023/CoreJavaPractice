@@ -32,8 +32,10 @@ public class CoreJava {
         smallestAmongThreeNumbers();
  
         Calling method array Sorting that take input of 1D array and sort the array ascending 
-        array1D_Sorting();*/
-        array2D_Sorting();
+        array1D_Sorting();
+        
+        Calling method array2D Sorting that take input of 2D array and sort the array ascending 
+        array2D_Sorting();*/
     }
 
     public static void addTwoNumber() {
